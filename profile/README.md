@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TAKT-OS/.github/main/assets/org-icon.svg" alt="TAKT OS" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/TAKT-OS/.github/main/assets/takt-os-banner.svg" alt="TAKT OS — Industrial cycle-based RTOS for ESP32" width="100%"/>
 
-# TAKT OS
+<br/>
 
 **Open-source industrial real-time framework for Espressif ESP32**
 
