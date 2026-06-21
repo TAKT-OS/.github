@@ -88,6 +88,6 @@ Contributions, issues, and field feedback are welcome.
 
 **Maintained by [Masyukov Pavel](mailto:p.masyukov@gmail.com)** · Apache 2.0
 
-<sub>Organization profile · <a href="https://github.com/TAKT-OS">github.com/TAKT-OS</a></sub>
+<sub>Organization profile · <a href="https://github.com/TAKT-OS">github.com/TAKT-OS</a> · Org avatar: <a href="https://github.com/TAKT-OS/.github/raw/main/assets/org-avatar.png">org-avatar.png</a> (PNG/JPG only, not SVG)</sub>
 
 </div>
